@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 5c83adb016b78450ebb1c20ae6301349
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1414691447744426712
+    second: Basketball_defender_3_0
+  - first:
+      213: -8662042717470228574
+    second: Basketball_defender_3_1
+  - first:
+      213: -2163851950623683205
+    second: Basketball_defender_3_2
+  - first:
+      213: 8529638343571545537
+    second: Basketball_defender_3_3
+  - first:
+      213: -3607364922526602897
+    second: Basketball_defender_3_4
+  - first:
+      213: 6870645058344677682
+    second: Basketball_defender_3_5
+  - first:
+      213: -1585831182114901863
+    second: Basketball_defender_3_6
+  - first:
+      213: 4328244004057863335
+    second: Basketball_defender_3_7
+  - first:
+      213: -2717680026884973961
+    second: Basketball_defender_3_8
+  - first:
+      213: -4910317266648409882
+    second: Basketball_defender_3_9
+  - first:
+      213: 7756758566608187299
+    second: Basketball_defender_3_10
+  - first:
+      213: -5205653779982210879
+    second: Basketball_defender_3_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: defender2_tall2
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1989
+        width: 611
+        height: 2110
+      alignment: 9
+      pivot: {x: 0.44750956, y: 0.023742039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f699506ef1a310800000000000000
+      internalID: 1414691447744426712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_tall3
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1875
+        width: 633
+        height: 2422
+      alignment: 9
+      pivot: {x: 0.44088942, y: 0.021091603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7debba0e3ac780800000000000000
+      internalID: -8662042717470228574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_tall4
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1746
+        width: 652
+        height: 2676
+      alignment: 9
+      pivot: {x: 0.4344138, y: 0.014614271}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d0a809d1478f1e0800000000000000
+      internalID: -2163851950623683205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_tall1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2007
+        width: 589
+        height: 1701
+      alignment: 9
+      pivot: {x: 0.48184982, y: 0.022354009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2317d60474f695f50800000000000000
+      internalID: 6870645058344677682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_wide1
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 2641
+        width: 1288
+        height: 1537
+      alignment: 9
+      pivot: {x: 0.52489966, y: 0.01312101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990bd4421fefdf9e0800000000000000
+      internalID: -1585831182114901863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_wide2
+      rect:
+        serializedVersion: 2
+        x: 4698
+        y: 2497
+        width: 1753
+        height: 1702
+      alignment: 9
+      pivot: {x: 0.49390107, y: 0.038337395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4551b5df2011c30800000000000000
+      internalID: 4328244004057863335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_wide3
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 128
+        width: 2204
+        height: 1859
+      alignment: 9
+      pivot: {x: 0.50485027, y: 0.025570858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af262bb1da85ab60800000000000000
+      internalID: 7756758566608187299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: defender2_wide4
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 0
+        width: 2390
+        height: 2013
+      alignment: 9
+      pivot: {x: 0.5067087, y: 0.027346516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8ad74c77dc1c7b0800000000000000
+      internalID: -5205653779982210879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99c16326bae764f64b76c95fe2bf9f9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Basketball_defender_3_3: 8529638343571545537
+      Basketball_defender_3_4: -3607364922526602897
+      Basketball_defender_3_8: -2717680026884973961
+      Basketball_defender_3_9: -4910317266648409882
+      defender2_tall1: 6870645058344677682
+      defender2_tall2: 1414691447744426712
+      defender2_tall3: -8662042717470228574
+      defender2_tall4: -2163851950623683205
+      defender2_wide1: -1585831182114901863
+      defender2_wide2: 4328244004057863335
+      defender2_wide3: 7756758566608187299
+      defender2_wide4: -5205653779982210879
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

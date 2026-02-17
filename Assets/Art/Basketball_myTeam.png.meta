@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: f704c8dcb36d34749be69d3cd8aecc65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8956162056097832494
+    second: Basketball_myTeam_0
+  - first:
+      213: 6360938111438864644
+    second: Basketball_myTeam_1
+  - first:
+      213: 8749150082617264119
+    second: Basketball_myTeam_2
+  - first:
+      213: 39165434647433845
+    second: Basketball_myTeam_3
+  - first:
+      213: -834793884566649332
+    second: Basketball_myTeam_4
+  - first:
+      213: -2262198665151235084
+    second: Basketball_myTeam_5
+  - first:
+      213: -6800920876234897371
+    second: Basketball_myTeam_6
+  - first:
+      213: 6548373848987414651
+    second: Basketball_myTeam_7
+  - first:
+      213: 7868603768413053737
+    second: Basketball_myTeam_8
+  - first:
+      213: -1208137948123259928
+    second: Basketball_myTeam_9
+  - first:
+      213: -5778329298549513219
+    second: Basketball_myTeam_10
+  - first:
+      213: -677492918288946545
+    second: Basketball_myTeam_11
+  - first:
+      213: -1309592822125664073
+    second: Basketball_myTeam_12
+  - first:
+      213: -6523820895278412963
+    second: Basketball_myTeam_13
+  - first:
+      213: 8818729383048907945
+    second: Basketball_myTeam_14
+  - first:
+      213: 7831878333275544818
+    second: Basketball_myTeam_15
+  - first:
+      213: -2980554175429034450
+    second: Basketball_myTeam_16
+  - first:
+      213: 2699077939913580457
+    second: Basketball_myTeam_17
+  - first:
+      213: 1379824461670802895
+    second: Basketball_myTeam_18
+  - first:
+      213: 4522216796774546884
+    second: Basketball_myTeam_19
+  - first:
+      213: -3942677267236780641
+    second: Basketball_myTeam_20
+  - first:
+      213: -1765864261769245195
+    second: Basketball_myTeam_21
+  - first:
+      213: 6506168383945925973
+    second: Basketball_myTeam_22
+  - first:
+      213: 9155639772153433591
+    second: Basketball_myTeam_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Basketball_myTeam_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3545
+        width: 386
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1e47fcf0255b380800000000000000
+      internalID: -8956162056097832494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3537
+        width: 390
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ce8ab287964850800000000000000
+      internalID: 6360938111438864644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3532
+        width: 385
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f74bf825a93b6970800000000000000
+      internalID: 8749150082617264119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_3
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 3546
+        width: 385
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57252ab51c42b8000800000000000000
+      internalID: 39165434647433845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1879
+        width: 660
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5627681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c068cb982673a64f0800000000000000
+      internalID: -834793884566649332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_5
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1879
+        width: 477
+        height: 1335
+      alignment: 9
+      pivot: {x: 0.60735506, y: 0.559281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb3c48bc4e0b90e0800000000000000
+      internalID: -2262198665151235084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_7
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1861
+        width: 520
+        height: 1463
+      alignment: 9
+      pivot: {x: 0.6432401, y: 0.5445482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703a55225f70ea50800000000000000
+      internalID: 6548373848987414651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_13
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 31
+        width: 671
+        height: 1576
+      alignment: 9
+      pivot: {x: 0.3657907, y: 0.60068697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bc8aed57bb675a0800000000000000
+      internalID: -6523820895278412963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_14
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 43
+        width: 647
+        height: 1596
+      alignment: 9
+      pivot: {x: 0.38274458, y: 0.58897513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac0ee676ab626a70800000000000000
+      internalID: 8818729383048907945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_16
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 0
+        width: 703
+        height: 1588
+      alignment: 9
+      pivot: {x: 0.5000014, y: 0.5919565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebeb3e4c1f2a6d0800000000000000
+      internalID: -2980554175429034450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 168
+        width: 693
+        height: 1485
+      alignment: 9
+      pivot: {x: 0.47984713, y: 0.49373022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af54a5061d057520800000000000000
+      internalID: 2699077939913580457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_18
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 158
+        width: 693
+        height: 1481
+      alignment: 9
+      pivot: {x: 0.47312975, y: 0.5062867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5684a890f162310800000000000000
+      internalID: 1379824461670802895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basketball_myTeam_19
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 152
+        width: 506
+        height: 1538
+      alignment: 9
+      pivot: {x: 0.36199734, y: 0.5151342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd3d09873422ce30800000000000000
+      internalID: 4522216796774546884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 84d9861d560094a7cb224afff0b3849e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Basketball_myTeam_0: -8956162056097832494
+      Basketball_myTeam_1: 6360938111438864644
+      Basketball_myTeam_10: -5778329298549513219
+      Basketball_myTeam_11: -677492918288946545
+      Basketball_myTeam_12: -1309592822125664073
+      Basketball_myTeam_13: -6523820895278412963
+      Basketball_myTeam_14: 8818729383048907945
+      Basketball_myTeam_15: 7831878333275544818
+      Basketball_myTeam_16: -2980554175429034450
+      Basketball_myTeam_17: 2699077939913580457
+      Basketball_myTeam_18: 1379824461670802895
+      Basketball_myTeam_19: 4522216796774546884
+      Basketball_myTeam_2: 8749150082617264119
+      Basketball_myTeam_20: -3942677267236780641
+      Basketball_myTeam_21: -1765864261769245195
+      Basketball_myTeam_22: 6506168383945925973
+      Basketball_myTeam_23: 9155639772153433591
+      Basketball_myTeam_3: 39165434647433845
+      Basketball_myTeam_4: -834793884566649332
+      Basketball_myTeam_5: -2262198665151235084
+      Basketball_myTeam_6: -6800920876234897371
+      Basketball_myTeam_7: 6548373848987414651
+      Basketball_myTeam_8: 7868603768413053737
+      Basketball_myTeam_9: -1208137948123259928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
