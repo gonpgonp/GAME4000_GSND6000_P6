@@ -40,23 +40,23 @@ AnimationClip:
         time: 0.5
         value: {x: 0, y: 2.86, z: 22}
         inSlope: {x: 0, y: -9.779222, z: 0}
-        outSlope: {x: 0, y: -15.119998, z: 0}
+        outSlope: {x: 0, y: -23.159996, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.6666667
-        value: {x: 0, y: 0.34, z: 22}
-        inSlope: {x: 0, y: -15.119998, z: 0}
-        outSlope: {x: 0, y: 7.3077097, z: 0}
+        value: {x: 0, y: -1, z: 22}
+        inSlope: {x: 0, y: -23.159996, z: 0}
+        outSlope: {x: 0, y: 7.5000005, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.73333335
-        value: {x: 0, y: 0.8271806, z: 22}
+        value: {x: 0, y: -0.5, z: 22}
         inSlope: {x: 0, y: -0.41379625, z: 0}
         outSlope: {x: 0, y: -0.41379625, z: 0}
         tangentMode: 0
@@ -65,8 +65,8 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.49542296, z: 0.33333334}
       - serializedVersion: 3
         time: 0.8
-        value: {x: 0, y: 0.34, z: 22}
-        inSlope: {x: 0, y: -7.3077097, z: 0}
+        value: {x: 0, y: -1, z: 22}
+        inSlope: {x: 0, y: -7.5000005, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
         weightedMode: 0
@@ -74,7 +74,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.9166667
-        value: {x: 0, y: 0.34, z: 22}
+        value: {x: 0, y: -1, z: 22}
         inSlope: {x: 0, y: -0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -307,23 +307,23 @@ AnimationClip:
         time: 0.5
         value: 2.86
         inSlope: -9.779222
-        outSlope: -15.119998
+        outSlope: -23.159996
         tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.6666667
-        value: 0.34
-        inSlope: -15.119998
-        outSlope: 7.3077097
+        value: -1
+        inSlope: -23.159996
+        outSlope: 7.5000005
         tangentMode: 69
         weightedMode: 0
         inWeight: 0.33333334
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.73333335
-        value: 0.8271806
+        value: -0.5
         inSlope: -0.41379625
         outSlope: -0.41379625
         tangentMode: 0
@@ -332,8 +332,8 @@ AnimationClip:
         outWeight: 0.49542296
       - serializedVersion: 3
         time: 0.8
-        value: 0.34
-        inSlope: -7.3077097
+        value: -1
+        inSlope: -7.5000005
         outSlope: 0
         tangentMode: 5
         weightedMode: 0
@@ -341,7 +341,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.9166667
-        value: 0.34
+        value: -1
         inSlope: -0
         outSlope: 0
         tangentMode: 5
@@ -528,16 +528,16 @@ AnimationClip:
   m_HasGenericRootTransform: 1
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 0.9166667
+  - time: 0.5
     functionName: TriggerUnityEvent
-    data: SetOwnerPlayer
+    data: PlayerScore
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
   - time: 0.9166667
     functionName: TriggerUnityEvent
-    data: PlayerScore
+    data: SetOwnerPlayer
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
